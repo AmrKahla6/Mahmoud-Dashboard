@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18.75" height="25" viewBox="0 0 18.75 25">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#c6445a"/>
+      <stop offset="1" stop-color="#c68e44"/>
+    </linearGradient>
+  </defs>
+  <path id="Icon_awesome-fire" data-name="Icon awesome-fire" d="M10.547,1.165A1.174,1.174,0,0,0,8.391.528c-6.047,8.839,2.546,9.237,2.546,13.534a3.125,3.125,0,1,1-6.25-.046V9.841a1.172,1.172,0,0,0-2.023-.806A9.763,9.763,0,0,0,0,15.625a9.375,9.375,0,0,0,18.75,0c0-8.315-8.2-9.424-8.2-14.46Z" transform="translate(0 0)" fill="url(#linear-gradient)"/>
+</svg>

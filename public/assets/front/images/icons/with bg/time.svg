@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="95.711" height="79.683" viewBox="0 0 95.711 79.683">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="1" x2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0.039" stop-color="#43c1c7"/>
+      <stop offset="0.211" stop-color="#4ec2c2"/>
+      <stop offset="0.463" stop-color="#65c5b5"/>
+      <stop offset="0.765" stop-color="#82ca9f"/>
+      <stop offset="1" stop-color="#99cf8b"/>
+    </linearGradient>
+  </defs>
+  <g id="time" transform="translate(-252.229 -840)">
+    <path id="Union_11" data-name="Union 11" d="M41.8,77.979A85.6,85.6,0,0,1,27.316,66.462,97.691,97.691,0,0,1,7.354,39.532a79.738,79.738,0,0,1-5.8-15.769C.411,19.09-1.319,11.853,1.631,7.516c2.1-3.094,6.2-4.338,9.606-5.175C19.278.385,27.79.209,36.025.085,39.963.03,43.9-.04,47.856.028c3.94-.068,7.9,0,11.838.057,8.232.126,16.743.3,24.782,2.255,3.411.838,7.506,2.081,9.589,5.175,2.972,4.337,1.236,11.574.07,16.247a79.99,79.99,0,0,1-5.775,15.769A97.744,97.744,0,0,1,68.4,66.462,85.9,85.9,0,0,1,53.905,77.979a11.6,11.6,0,0,1-12.1,0Z" transform="translate(252.229 840)" opacity="0.4" fill="url(#linear-gradient)"/>
+    <g id="Icon_ionic-md-time" data-name="Icon ionic-md-time" transform="translate(277.25 850.625)">
+      <path id="Path_39490" data-name="Path 39490" d="M23.822,3.375A20.467,20.467,0,1,0,44.309,23.842,20.459,20.459,0,0,0,23.822,3.375Zm.02,36.84A16.373,16.373,0,1,1,40.215,23.842,16.373,16.373,0,0,1,23.842,40.215Z" fill="#231e1f" stroke="#fff" stroke-width="1"/>
+      <path id="Path_39491" data-name="Path 39491" d="M19.608,10.688h-3.07v12.28l10.745,6.445,1.535-2.519-9.21-5.461Z" transform="translate(5.258 2.921)" fill="#231e1f" stroke="#fff" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="86.348" height="71.888" viewBox="0 0 86.348 71.888">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="1" x2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0.039" stop-color="#43c1c7"/>
+      <stop offset="0.211" stop-color="#4ec2c2"/>
+      <stop offset="0.463" stop-color="#65c5b5"/>
+      <stop offset="0.765" stop-color="#82ca9f"/>
+      <stop offset="1" stop-color="#99cf8b"/>
+    </linearGradient>
+  </defs>
+  <path id="logo_bg_mark" data-name="logo bg mark" d="M3042.713-2240.649a77.226,77.226,0,0,1-13.07-10.391,88.134,88.134,0,0,1-18.009-24.3,71.938,71.938,0,0,1-5.23-14.226c-1.034-4.216-2.594-10.745.067-14.658,1.9-2.792,5.6-3.914,8.667-4.669,7.254-1.765,14.933-1.923,22.362-2.035,3.553-.05,7.107-.113,10.674-.052,3.555-.061,7.128,0,10.68.052,7.426.113,15.105.27,22.358,2.035,3.077.756,6.771,1.878,8.651,4.669,2.681,3.912,1.115,10.441.063,14.658a72.165,72.165,0,0,1-5.21,14.226,88.182,88.182,0,0,1-18.009,24.3,77.5,77.5,0,0,1-13.076,10.391,10.427,10.427,0,0,1-5.458,1.537A10.442,10.442,0,0,1,3042.713-2240.649Z" transform="translate(-3005 2311)" opacity="0.4" fill="url(#linear-gradient)"/>
+</svg>

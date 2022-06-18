@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="78" height="78" viewBox="0 0 78 78">
+  <defs>
+    <filter id="Rectangle_19478" x="0" y="0" width="78" height="78" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-color="#f6ff6b" flood-opacity="0.169"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="rate_active" data-name="rate active" transform="translate(9 5.955)">
+    <g transform="matrix(1, 0, 0, 1, -9, -5.96)" filter="url(#Rectangle_19478)">
+      <rect id="Rectangle_19478-2" data-name="Rectangle 19478" width="60" height="60" rx="4" transform="translate(9 6)" fill="#f6ff6b"/>
+    </g>
+    <path id="Star" d="M20.491,3C16.534,3,16.16,9.892,13.8,12.328s-9.68-.349-10.7,3.973,5.573,5.792,6.386,9.5-3.209,8.923.231,11.518,7.142-3.275,10.768-3.275,7.329,5.867,10.768,3.275-.584-7.807.231-11.518,7.4-5.178,6.386-9.5-8.342-1.538-10.7-3.973S24.448,3,20.491,3Z" transform="translate(9.396 9.441)" fill="#fff" stroke="rgba(246,255,107,0.17)" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" fill-rule="evenodd"/>
+  </g>
+</svg>
